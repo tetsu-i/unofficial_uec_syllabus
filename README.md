@@ -3,5 +3,6 @@
 リアルタイムの反映はされないので注意
 
 ## 実行
-yarn install
-yarn start
+`yarn install`
+
+`yarn start`
