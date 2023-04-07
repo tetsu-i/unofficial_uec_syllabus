@@ -6,3 +6,7 @@
 `yarn install`
 
 `yarn start`
+
+## TODO
+- 昼間課程のシラバスを追加
+- 学年を追加
